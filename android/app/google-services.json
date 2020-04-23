@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764358555998",
+    "firebase_url": "https://fitnessmaster-b4c58.firebaseio.com",
+    "project_id": "fitnessmaster-b4c58",
+    "storage_bucket": "fitnessmaster-b4c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764358555998:android:65ac4d69802ca706bcf7cf",
+        "android_client_info": {
+          "package_name": "com.fitness_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764358555998-ukiq7iufqq08g14932ajiuscn9sgttiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitness_master",
+            "certificate_hash": "a04c1725c90a6429d3ab39acdf365ea63c75b721"
+          }
+        },
+        {
+          "client_id": "764358555998-8l2qjjds8eugovlo2cd9tq7rupgml69c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMQTOJ-B3p1TlmxKRL79twNaQI2-qzKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764358555998-8l2qjjds8eugovlo2cd9tq7rupgml69c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764358555998-u56ffkeitd8iuq9drud1duuvh5o97dde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.fitness-master"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
